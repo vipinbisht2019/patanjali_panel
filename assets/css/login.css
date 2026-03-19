@@ -1,0 +1,211 @@
+html {
+  width: 100%;
+}
+
+body {
+  overflow-x: hidden !important;
+}
+
+/* Hide everything under body tag */
+body.show-spinner > *{
+  opacity: 0;
+}
+
+/* Spinner */
+body.show-spinner::before{
+  content: " ";
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  border: 2px solid rgba(0, 0, 0, 0.2);
+  border-radius: 50%;
+  border-top-color: rgba(0, 0, 0, 0.3);
+  animation: spin 1s ease-in-out infinite;
+  -webkit-animation: spin 1s ease-in-out infinite;
+  left: calc(50% - 15px);
+  top: calc(50% - 15px);
+  position: fixed;
+  z-index: 1;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@-webkit-keyframes spin {
+  to {
+    -webkit-transform: rotate(360deg);
+  }
+}
+
+.fixed-background {
+    background: url(../img/balloon.jpg) no-repeat 50% fixed;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+body.background main {
+    margin: 0!important;
+    height: 100%;
+}
+body.background main .container {
+    height: 100%;
+}
+
+.position-relative {
+    position: relative !important;
+}
+.text-white {
+    color: #fff!important;
+}
+.white {
+    color: #fff;
+}
+.auth-card {
+    display: flex;
+    flex-direction: row;
+    border: none;
+    border-radius: 0px;
+    box-shadow: 0 1px 15px rgba(0,0,0,.04), 0 1px 6px rgba(0,0,0,.04);
+    margin-top: 100px;
+}
+.auth-card .image-side {
+    width: 40%;
+    /* background: url(../img/login-balloon.jpg) no-repeat top; */
+    background: #fff;
+    background-size: cover;
+    padding: 80px 40px;
+}
+.auth-card .form-side {
+    width: 60%;
+    padding: 80px;
+}
+.logo-single {
+    width: 100%;
+    height: 35px;
+    background: url(../img/logo.png) no-repeat;
+    background-size:  auto 100%;
+    background-position: center left;
+    margin-bottom: 60px;
+}
+.logo-single, h1 {
+    display: inline-block;
+}
+h6 {
+    font-size: 1rem;
+}
+
+span.error{ font-size: 12px; color: #ff6600;}
+.bootstrap-tagsinput, .form-control {
+    border-radius: .1rem;
+    outline: initial!important;
+    box-shadow: none!important;
+    font-size: .8rem;
+    padding: .75rem .75rem .5rem;
+    line-height: 1.5;
+    border: 1px solid #d7d7d7;
+    background: #fff;
+    color: #212121;
+}
+
+.has-float-label>span, .has-float-label label, .has-top-label>span, .has-top-label label {
+    color: rgba(33,33,33,.7);
+}
+.has-float-label label, .has-float-label > span:last-of-type {
+    position: absolute;
+    cursor: text;
+    font-size: 90%;
+    opacity: 1;
+    top: -0.4em;
+    left: 0.75rem;
+    z-index: 3;
+    line-height: 1;
+    padding: 0 1px;
+    display: block;
+    background: #fcfcfc;
+}
+
+
+.btn {
+    border-radius: 50px;
+    outline: initial!important;
+    box-shadow: none!important;
+    font-size: .8rem;
+    padding: .75rem 1.3rem .6rem;
+    position: relative;
+}
+.btn, .btn-shadow {
+    transition: background-color box-shadow .1s linear;
+}
+.btn-shadow {
+    box-shadow: 0 1px 2px 0 rgba(0,0,0,.15),0 1px 3px 1px rgba(0,0,0,.15)!important;
+}
+.btn-group-lg>.btn, .btn-group-sm>.btn, .btn-lg {
+    border-radius: 50px;
+}
+.btn-primary {
+    background-color: #145388;
+    border-color: #145388;
+    color: #fff;
+}
+.btn-group-lg>.btn, .btn-lg {
+    line-height: 1.5;
+    font-weight: 700;
+    letter-spacing: .05rem;
+    padding: .75rem 2.6rem .6rem;
+}
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+}
+
+
+.btn .loading{ display: none; }
+.btn.loading .loading {
+  border: 2px solid #f3f3f3;
+  width: 20px;
+  height: 20px;
+  display: block;
+  border-radius: 50%;
+  margin: 0px;
+  border-top: 2px solid #3298db;
+  -webkit-animation: cw-spin 1.2s linear infinite;
+          animation: cw-spin 1.2s linear infinite;
+          position: absolute;
+          left: 20px;
+          top: 11px;
+}
+
+.btn.loading{ padding-left: 50px; }
+
+@-webkit-keyframes cw-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+@keyframes cw-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+
+
+
+

@@ -1,0 +1,2 @@
+[29-May-2023 05:06:58 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home2/laminbmx/public_html/test_paras/config.php on line 3
+[29-May-2023 15:36:58 Asia/Calcutta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/laminbmx/public_html/test_paras/application/lib/core/dbclass.php on line 15

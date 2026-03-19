@@ -1,0 +1,53 @@
+
+#Options +FollowSymLinks -MultiViews
+
+# Disable directory browsing 
+Options -Indexes
+
+RewriteEngine On
+RewriteBase /patanjali_panel/
+
+
+#ErrorDocument 404 errors/404.php 
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule ^api/received/point/detail application/api/app/api.php?controller=receivedPointDetail
+RewriteRule ^api/transfer/points application/api/app/api.php?controller=transferPoints
+RewriteRule ^api/minimum/txpoints application/api/app/api.php?controller=minimumTxPoint
+
+RewriteRule ^api/scannedCouponHistory application/api/app/api.php?controller=scannedCouponHistory
+RewriteRule ^api/scannedCouponDetail application/api/app/api.php?controller=scannedCouponDetail
+RewriteRule ^api/addCouponFeedback application/api/app/api.php?controller=addCouponFeedback
+RewriteRule ^api/brandFeedbackOption application/api/app/api.php?controller=brandFeedbackOption
+
+RewriteRule ^api/userLoyalty application/api/app/api.php?controller=userLoyalty
+
+RewriteRule ^category/add views/category/edit.php
+RewriteRule ^category/([a-z0-9]+) views/category/edit.php?id=$1
+RewriteRule ^category views/category/list.php
+
+RewriteRule ^subCategory/add views/category/editSubCate.php
+RewriteRule ^subCategory/([a-z0-9]+) views/category/editSubCate.php?id=$1
+RewriteRule ^subCategory views/category/subCatList.php
+
+# PRODUCTS
+
+RewriteRule ^importProducts views/products/import.php
+RewriteRule ^products views/products/list.php
+RewriteRule ^api/product/edit application/api/products.php?controller=edit
+
+# COUPONS
+
+RewriteRule ^couponMaster views/coupons/couponMaster.php
+RewriteRule ^couponBatchMaster views/coupons/couponBatchMaster.php
+RewriteRule ^genrateCoupons views/coupons/genrateCoupon.php
+RewriteRule ^couponOrders views/coupons/couponOrders.php
+RewriteRule ^printOrderCoupon/([0-9]+) views/coupons/printOrderCoupon.php?id=$1
+
+# LOYALTY / USERS
+
+RewriteRule ^loyaltyAuthorisation views/loyalty/authorisation.php
+RewriteRule ^loyaltyDeauthorization views/loyalty/deauthorization.php
+RewriteRule ^loyaltyImportExport views/loyalty/importExport.php

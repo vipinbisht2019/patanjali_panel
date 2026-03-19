@@ -1,0 +1,5 @@
+[07-Feb-2023 15:47:46 Asia/Calcutta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'laminbmx_test_new'@'localhost' to database 'laminbmx_test_newl' in /home2/laminbmx/public_html/test_parasg/application/lib/core/dbclass.php on line 15
+[07-Mar-2023 14:52:58 Asia/Calcutta] PHP Warning:  Undefined array key "is_gifting_allow" in /home2/laminbmx/public_html/test_paras/views/includes/menu.php on line 21
+[07-Mar-2023 14:54:00 Asia/Calcutta] PHP Warning:  Undefined array key "is_gifting_allow" in /home2/laminbmx/public_html/test_paras/views/includes/menu.php on line 21
+[09-May-2023 15:05:17 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[09-May-2023 15:05:17 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8

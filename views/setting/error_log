@@ -1,0 +1,5 @@
+[08-Mar-2023 09:52:30 Asia/Calcutta] PHP Warning:  Undefined array key "is_gifting_allow" in /home2/laminbmx/public_html/test_paras/views/includes/menu.php on line 21
+[05-May-2023 15:40:29 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[05-May-2023 15:40:29 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[05-May-2023 15:47:49 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[05-May-2023 15:47:49 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8

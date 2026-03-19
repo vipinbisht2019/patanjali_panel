@@ -1,0 +1,102 @@
+[28-Feb-2023 02:18:52 America/Chicago] PHP Parse error:  syntax error, unexpected '$validUpTo' (T_VARIABLE), expecting ',' or ';' in /home2/laminbmx/public_html/test_paras/views/coupons/printOrderCoupon.php on line 175
+[03-Mar-2023 13:39:32 Asia/Calcutta] PHP Warning:  Undefined array key "is_gifting_allow" in /home2/laminbmx/public_html/test_paras/views/includes/menu.php on line 21
+[08-Mar-2023 09:42:48 Asia/Calcutta] PHP Warning:  Undefined array key "is_gifting_allow" in /home2/laminbmx/public_html/test_paras/views/includes/menu.php on line 21
+[08-Mar-2023 09:50:44 Asia/Calcutta] PHP Warning:  Undefined array key "is_gifting_allow" in /home2/laminbmx/public_html/test_paras/views/includes/menu.php on line 21
+[08-Mar-2023 09:51:17 Asia/Calcutta] PHP Warning:  Undefined array key "is_gifting_allow" in /home2/laminbmx/public_html/test_paras/views/includes/menu.php on line 21
+[08-Mar-2023 09:51:47 Asia/Calcutta] PHP Warning:  Undefined array key "is_gifting_allow" in /home2/laminbmx/public_html/test_paras/views/includes/menu.php on line 21
+[08-Mar-2023 09:51:49 Asia/Calcutta] PHP Warning:  Undefined array key "is_gifting_allow" in /home2/laminbmx/public_html/test_paras/views/includes/menu.php on line 21
+[08-Mar-2023 09:51:49 Asia/Calcutta] PHP Warning:  Undefined array key "redirectMessage" in /home2/laminbmx/public_html/test_paras/views/coupons/couponBatchMaster.php on line 10
+[08-Mar-2023 09:51:52 Asia/Calcutta] PHP Warning:  Undefined array key "is_gifting_allow" in /home2/laminbmx/public_html/test_paras/views/includes/menu.php on line 21
+[08-Mar-2023 09:51:52 Asia/Calcutta] PHP Warning:  Undefined array key "redirectMessage" in /home2/laminbmx/public_html/test_paras/views/coupons/couponBatchMaster.php on line 10
+[08-Mar-2023 09:53:47 Asia/Calcutta] PHP Warning:  Undefined array key "is_gifting_allow" in /home2/laminbmx/public_html/test_paras/views/includes/menu.php on line 21
+[08-Mar-2023 09:54:17 Asia/Calcutta] PHP Warning:  Undefined array key "is_gifting_allow" in /home2/laminbmx/public_html/test_paras/views/includes/menu.php on line 21
+[01-May-2023 19:01:28 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[01-May-2023 19:01:28 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[01-May-2023 19:02:43 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[01-May-2023 19:02:43 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[01-May-2023 19:03:26 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[01-May-2023 19:03:26 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[01-May-2023 19:04:06 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[01-May-2023 19:04:06 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[01-May-2023 19:04:11 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[01-May-2023 19:04:11 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[01-May-2023 19:04:13 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[01-May-2023 19:04:13 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[01-May-2023 19:04:57 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[01-May-2023 19:04:57 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[02-May-2023 15:13:39 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[02-May-2023 15:13:39 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[02-May-2023 15:13:41 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[02-May-2023 15:13:41 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[02-May-2023 15:19:17 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[02-May-2023 15:19:17 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[02-May-2023 15:19:58 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[02-May-2023 15:19:58 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[02-May-2023 15:20:28 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[02-May-2023 15:20:28 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[02-May-2023 15:21:13 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[02-May-2023 15:21:13 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[02-May-2023 15:21:46 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[02-May-2023 15:21:46 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[02-May-2023 15:34:14 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[02-May-2023 15:34:14 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[02-May-2023 17:51:04 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[02-May-2023 17:51:04 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[02-May-2023 17:51:05 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[02-May-2023 17:51:05 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[02-May-2023 18:27:41 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[02-May-2023 18:27:41 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[05-May-2023 11:26:58 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[05-May-2023 11:26:58 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[05-May-2023 15:46:12 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[05-May-2023 15:46:12 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[05-May-2023 15:47:19 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[05-May-2023 15:47:19 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[05-May-2023 15:48:57 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[05-May-2023 15:48:57 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[05-May-2023 15:50:21 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[05-May-2023 15:50:21 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[05-May-2023 16:43:18 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[05-May-2023 16:43:18 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[05-May-2023 16:43:53 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[05-May-2023 16:43:53 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[05-May-2023 16:56:48 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[05-May-2023 16:56:48 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[05-May-2023 16:57:41 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[05-May-2023 16:57:41 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[08-May-2023 10:45:28 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[08-May-2023 10:45:28 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[08-May-2023 10:46:00 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[08-May-2023 10:46:00 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[08-May-2023 10:46:52 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[08-May-2023 10:46:52 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[08-May-2023 10:47:28 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[08-May-2023 10:47:28 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[08-May-2023 16:00:43 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[08-May-2023 16:00:43 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[08-May-2023 16:00:57 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[08-May-2023 16:00:57 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[08-May-2023 18:47:54 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[08-May-2023 18:47:54 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[08-May-2023 18:48:26 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[08-May-2023 18:48:26 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[08-May-2023 18:53:08 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[08-May-2023 18:53:08 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[08-May-2023 18:53:56 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[08-May-2023 18:53:56 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[08-May-2023 19:03:01 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[08-May-2023 19:03:01 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[08-May-2023 21:46:19 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[08-May-2023 21:46:19 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[08-May-2023 21:49:20 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[08-May-2023 21:49:20 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[08-May-2023 21:50:43 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[08-May-2023 21:50:43 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[09-May-2023 10:59:11 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[09-May-2023 10:59:11 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[09-May-2023 11:03:49 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[09-May-2023 11:03:49 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[09-May-2023 16:31:10 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[09-May-2023 16:31:10 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8
+[09-May-2023 17:13:51 Asia/Calcutta] PHP Warning:  session_cache_limiter(): Cannot change cache limiter when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 7
+[09-May-2023 17:13:51 Asia/Calcutta] PHP Warning:  session_cache_expire(): Cannot change cache expire when session is active in /home2/laminbmx/public_html/test_paras/views/includes/header.php on line 8

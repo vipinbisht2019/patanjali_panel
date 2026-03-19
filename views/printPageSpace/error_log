@@ -1,0 +1,2 @@
+[22-Feb-2023 12:33:42 Asia/Calcutta] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'laminbmx_test_new'@'localhost' to database 'laminbmx_test_new_news' in /home2/laminbmx/public_html/test_paras/application/lib/core/dbclass.php on line 15
+[07-Mar-2023 15:00:23 Asia/Calcutta] PHP Warning:  Undefined array key "is_gifting_allow" in /home2/laminbmx/public_html/test_paras/views/includes/menu.php on line 21

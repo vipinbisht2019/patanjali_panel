@@ -1,0 +1,23 @@
+
+
+@font-face { 
+  font-family: "Montserrat"; 
+  font-style: normal; 
+  font-weight: 400; 
+  src: local("Montserrat-Regular"), 
+	   url("montserrat-400-webfont.woff2") format("woff2"), 
+	   url("montserrat-400-webfont.woff") format("woff"); 
+  unicode-range: U+0-FF, U+131, U+152-153, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000; 
+}
+
+
+@font-face { 
+  font-family: "Montserrat"; 
+  font-style: normal; 
+  font-weight: 700; 
+  src: local("Montserrat-Bold"), 
+	   url("montserrat-700-webfont.woff2") format("woff2"), 
+	   url("montserrat-700-webfont.woff") format("woff"); 
+  unicode-range: U+0-FF, U+131, U+152-153, U+2C6, U+2DA, U+2DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000; 
+}
+
